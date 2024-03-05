@@ -44,7 +44,7 @@ In my free time, you'll find me:
 
 ## Connect with Me 📫
 
-- [GitHub](https://github.com/ilacorda)
+- [Linkedin](https://www.linkedin.com/in/ilariacorda/)
 - [Personal Blog](https://semanticreatures.com/)
 - [Academia.edu](https://ilariacorda.academia.edu/)
 
