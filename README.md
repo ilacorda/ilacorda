@@ -1,31 +1,21 @@
 # Hi there! 👋
 
-I'm a Senior Backend Engineer with a diverse background spanning from Philosophy to Ontology Engineering in Academia. My professional journey includes experience in Application Support and Software Development across various industries such as Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services, and Automotive.
+I'm a Senior Backend Engineer with a diverse background spanning from Philosophy to Ontology Engineering in Academia. My professional journey includes experience in Application Support and Software Development across various industries such as Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive.
 
 🌍 With 8+ years of experience (in the UK, Germany, and currently in Italy), I have a solid track record of working effectively with international, cross-functional, and geographically distributed teams.
 
 ## Tech Stack 👩‍💻
 
-My core Tech Stack includes:
-- Golang
-- Grpc
-- Protobuf
-- JVM languages (Java and Kotlin)
-- Spring and SpringBoot
-- Restful APIs Design & Development
-- Microservices
-- Event-Driven and Distributed Systems
-- Ruby and Ruby on Rails
+Core Tech Stack:
+- Golang, Grpc, Protobuf
+- JVM languages: Java, Kotlin, Spring, SpringBoot
+- Restful APIs, Microservices, Event-Driven Systems, Domain-Driven Design
+- Ruby, Ruby on Rails
 
-Recently, I've been exploring:
-- Prometheus
-- Grafana
-- RabbitMQ
-- Kafka
-- AWS
-- Kubernetes
-- Docker
-- Terraform
+Recent Explorations:
+- Prometheus, Grafana
+- RabbitMQ, Kafka
+- AWS, Kubernetes, Docker, Terraform
 
 📚 As a lifelong learner, I am a passionate Backend Engineer keen on constantly keeping up-to-date with new technologies and market trends.
 
