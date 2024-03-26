@@ -38,6 +38,6 @@ In my free time, you'll find me:
 - [Personal Blog](https://semanticreatures.com/)
 - [Academia.edu](https://ilariacorda.academia.edu/)
 
-Feel free to explore my GitHub repositories and connect with me on other platforms!
+Feel free to explore my GitHub repositories and connect with me on other platforms! I am keen to hear about potential collaborations and opportunities. 
 
 
